@@ -159,7 +159,9 @@ Coming Soon…
 
 Portfolio: https://your-domain.com
 
-LinkedIn: https://linkedin.com/in/ammar-abdallah
+LinkedIn: www.linkedin.com/in/
+ammar-abdallah-721604358
+
 
 Email: ammarff01@gmail.com
 
