@@ -1,50 +1,178 @@
-# 👋 Hi, I'm Ammar Abdallah
-### AI Engineer & Automation Architect | Mid-Level Systems Developer
+👋 Hi, I’m Ammar Abdallah
 
-An Artificial Intelligence & Intelligent Systems specialist focused on building production-grade automation ecosystems, high-throughput web scraping pipelines, and robust backend architectures. I bridge the gap between complex data extraction and intelligent workflow automation, engineering custom local and cloud solutions that scale.
+AI Developer | Automation Engineer | Web Scraping Specialist
 
----
+I build intelligent automation systems, AI-powered workflows, web scraping pipelines, and backend solutions that help businesses save time, generate leads, and automate repetitive tasks.
 
-### 🛠️ Professional Tech Stack
+⸻
 
-*   **Languages:** Python (Advanced), C (Systems/Data Structures), SQL (Complex Queries & Database Architecture), HTML5, CSS3, JavaScript
-*   **Automation & Orchestration:** n8n (Advanced Local/Docker Setup), Zapier, Make.com, Workflow Automation
-*   **Web Scraping & Data Extraction:** BeautifulSoup4, Scrapy, Selenium, Playwright, Request Handling, Data Enrichment & Cleaning
-*   **AI & Intelligent Systems:** Large Language Models (LLMs), Ollama (Local AI Integration), AI Agents, RAG Pipelines
-*   **DevOps & Environments:** Docker Desktop, VS Code, Git/GitHub, Linux/Unix Environments, API Gateways & Webhooks
+🚀 What I Do
 
----
+* 🤖 AI Agents & Workflow Automation
+* ⚙️ n8n Automation Development
+* 🕷️ Web Scraping & Data Extraction
+* 📊 Lead Generation Systems
+* 🗄️ Database Design & SQL Development
+* 🔗 API Integration & Webhooks
+* 🐳 Dockerized Deployments
+* 🧠 Local AI Systems with Ollama
 
-### 🚀 High-Impact Projects (Mid-Level)
+⸻
 
-#### 🤖 Enterprise AI & Local Workflow Automation Suite
-*   **Description:** Designed and deployed a completely self-hosted, production-ready automation infrastructure utilizing **Docker** and **n8n**. Built complex pipelines integrating local LLMs via **Ollama** for automated data extraction, intelligent classification, and multi-channel synchronization without relying on paid APIs.
-*   **Tech Stack:** n8n, Docker Desktop, Ollama, Python, Webhooks, Linux.
+🛠️ Tech Stack
 
-#### 🕷️ Distributed Web Scraping & Lead Generation Engine
-*   **Description:** Built automated web scraping pipelines tailored for freelance networks (Upwork, Google Maps, Directories) to capture, enrich, and clean lead data. Integrated the scraper with an automated outreach pipeline that uses AI to personalize communication based on scraped company metadata.
-*   **Tech Stack:** Python, BeautifulSoup4, Scrapy, Regex, n8n, SQL.
+Languages
 
-#### 🚘 Car Rental Database Management System
-*   **Description:** Engineered a full-scale relational database from structural concept to production schema. Modeled intricate Entity-Relationship Diagrams (ERD) and optimized performance using complex SQL queries, views, and indexes to ensure zero data redundancy and high transaction safety.
-*   **Tech Stack:** SQL, Relational Database Design, Database Architecture.
+* Python
+* C
+* SQL
+* JavaScript
+* HTML5
+* CSS3
+* c++
+* java
+  
+Automation
 
-#### 🌌 Soundverse — Intelligent Music Platform Backend
-*   **Description:** Developed the core backend and intelligent asset pipeline for an advanced music ecosystem, handling file ingestion, structural database relations, and AI API integrations to automate metadata indexing and content flow.
-*   **Tech Stack:** Python, Custom APIs, Backend Systems, Database Integration.
+* n8n
+* Make.com
+* Zapier
+* Webhooks
+* API Integrations
 
----
+AI & Data
 
-### 📊 GitHub Systems & Language Metrics
+* LLMs
+* Ollama
+* AI Agents
+* RAG Systems
+* Prompt Engineering
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarabdo01&show_icons=true&theme=tokyonight&count_private=true" alt="Ammar's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarabdo01&layout=compact&theme=tokyonight" alt="Top Languages" height="170px" />
-</p>
+Web Scraping
 
----
+* BeautifulSoup
+* Scrapy
+* Selenium
+* Playwright
+* Requests
 
-### 🤝 Let's Connect & Build
-*   **LinkedIn:** [linkedin.com/in/ammar-abdallah/](https://www.linkedin.com/in/ammar-abdallah/)
-*   **Email:** ammarff01@gmail.com
-*   
+DevOps & Tools
+
+* Docker
+* Git
+* GitHub
+* Linux
+* VS Code
+
+⸻
+
+⭐ Featured Projects
+
+🤖 Enterprise AI Automation Suite
+
+A self-hosted automation ecosystem powered by Docker, n8n, and local AI models.
+
+Features
+
+* Automated workflows
+* AI-powered classification
+* Local LLM integration
+* Multi-channel automation
+* Zero paid API dependency
+
+Tech: Docker, n8n, Ollama, Python
+
+⸻
+
+🕷️ Lead Generation & Web Scraping Engine
+
+A scalable system that extracts, cleans, enriches, and organizes business data automatically.
+
+Features
+
+* Automated lead collection
+* Data enrichment
+* Contact discovery
+* CSV & database exports
+* AI-personalized outreach
+
+Tech: Python, Scrapy, BeautifulSoup, SQL, n8n
+
+⸻
+
+🗄️ Car Rental Database System
+
+Designed and implemented a complete relational database system from ERD to production-ready schema.
+
+Features
+
+* Database normalization
+* Complex SQL queries
+* Views & indexes
+* Data integrity optimization
+
+Tech: SQL, Database Design
+
+⸻
+
+🎵 Soundverse Platform
+
+Backend architecture and intelligent asset management system for a modern music platform.
+
+Features
+
+* Metadata processing
+* File ingestion pipeline
+* Database integration
+* API connectivity
+
+Tech: Python, SQL, APIs
+
+⸻
+
+📈 Current Focus
+
+Currently expanding expertise in:
+
+* Advanced AI Agents
+* Workflow Automation
+* Intelligent Data Systems
+* Large Language Models
+* Backend Engineering
+* Distributed Scraping Systems
+
+⸻
+
+📷 Project Screenshots
+
+Coming Soon…
+
+* Automation Dashboards
+* n8n Workflows
+* AI Agent Systems
+* Database Architectures
+* Backend Infrastructure
+
+⸻
+
+🌐 Portfolio & Contact
+
+Portfolio: https://your-domain.com
+
+LinkedIn: https://linkedin.com/in/ammar-abdallah
+
+Email: ammarff01@gmail.com
+
+⸻
+
+🤝 Available For
+
+* Freelance Projects
+* AI Automation Development
+* Web Scraping Projects
+* Lead Generation Systems
+* Backend Development
+* Database Design
+* API Integrations
+
+Let’s build something amazing together.
