@@ -92,7 +92,7 @@ Currently expanding expertise in:
 ---
 
 🌐 Portfolio & Contact
-Portfolio: [Portfolio Link](https://your-domain.com)
+Portfolio: [Portfolio Link](https://ammar-abdallah-portfolio--ammarff01.replit.app)
 LinkedIn: [Ammar Abdallah](https://www.linkedin.com/in/ammar-abdallah-721604358)
 Email: [ammarff01@gmail.com](mailto:ammarff01@gmail.com)
 
